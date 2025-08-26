@@ -10,5 +10,5 @@ The associated files with this presentation are Large Scale Time Series Forecast
 The associated files with this presentation are SAS_Visual_Analytics_HandsOnInstructions.pdf.
 
 ## AS-153 -- (5:00p - 6:00p) PROC BGLIMM: The Smooth Transition to Bayesian Analysis
-The associated files with this presentation are BGLIMMComplete.pdf.
+The associated files with this presentation are BGLIMMComplete.pdf and BGLIMMComplete.ipynb.
 
